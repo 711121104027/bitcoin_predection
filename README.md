@@ -60,7 +60,7 @@ But in OPENVINO it took 135 milliseconds to 141 milliseconds to run it where thi
    <centre><h2> Traning model</centre><br />
       </div>
 
-![image](https://user-images.githubusercontent.com/105495867/225071699-5ec37228-52c1-4280-ab0f-9202d2b5ab42.png)
+![image](https://github.com/711121104027/bitcoin_predection/blob/main/training%20model.png)
 
 <div align="center">
    <centre><h2>Train and Validation loss predection
