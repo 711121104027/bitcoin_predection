@@ -74,5 +74,5 @@ But in OPENVINO it took 135 milliseconds to 141 milliseconds to run it where thi
    <centre><h2> Bitcoin Predection  </centre><br />
       </div>
 
-![image](https://user-images.githubusercontent.com/105495867/225071699-5ec37228-52c1-4280-ab0f-9202d2b5ab42.png)
+![image](https://github.com/711121104027/bitcoin_predection/blob/main/bitcoin%20predection.png)
 
