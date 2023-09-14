@@ -5,15 +5,15 @@
 
      
 <p align="center">
-  <img src="https://github.com/kamesh0407/stock_market_prediction/blob/main/1652530267151.jpg" width="400" height="240" >
+  <img src="https://github.com/711121104027/bitcoin_predection/blob/main/bitcoin.jpg" width="400" height="240" >
 </p>
-Stock price analysis has been a critical area of research and is one of the top applications of machine.
+Bitcoin predection has been a critical area of research and is one of the top applications of machine.
 So, I focused on building a Time-Efficient and approximate stock predictions, for google stocks with the RNN using LSTM Keras model.
 <h2>ABOUT</h2>
 
-**What is the Stock Market?**
+**What is the Bitcoin predection?**
 
-A stock market is a public market where you can buy and sell shares for publicly listed companies.
+A bitcoin predection is a public market where you can buy and sell shares for publicly listed companies.
 The stocks, also known as equities, represent ownership in the company.
 The stock exchange is the mediator that allows the buying and selling of shares.
 
@@ -57,15 +57,22 @@ But in OPENVINO it took 135 milliseconds to 141 milliseconds to run it where thi
 <br/>
 
 <div align="center">
-   <centre><h2> openVINO notebook</centre><br />
+   <centre><h2> Traning model</centre><br />
       </div>
 
 ![image](https://user-images.githubusercontent.com/105495867/225071699-5ec37228-52c1-4280-ab0f-9202d2b5ab42.png)
 
 <div align="center">
-   <centre><h2>local machine's notebook
+   <centre><h2>Train and Validation loss predection
 </centre><br />
       </div>
 
 
   ![image](https://user-images.githubusercontent.com/105495867/225222368-8dacf339-445f-4b2c-8404-53a0526ef6ca.png)
+
+  <div align="center">
+   <centre><h2> Bitcoin Predection  </centre><br />
+      </div>
+
+![image](https://user-images.githubusercontent.com/105495867/225071699-5ec37228-52c1-4280-ab0f-9202d2b5ab42.png)
+
