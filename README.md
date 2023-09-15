@@ -39,8 +39,8 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
 
 **CODES IN DIFFERENT PLATFORMS:**
 
-It tooks nearly 48seconds to 58 seconds to run single keras model files in Jupyter n0tebook
-But in OPENVINO it took 135 milliseconds to 141 milliseconds to run it where this keras model consist of 100 files to run it and make to fit for the model.
+It tooks nearly 40 seconds to 45 seconds to run single keras model files in Jupyter n0tebook
+But in OneDAL it took 100 milliseconds to 115 milliseconds to run it where this keras model consist of 100 files in one epoch to run it and make to fit for the model.
 
 <br/>
 
