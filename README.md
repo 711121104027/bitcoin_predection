@@ -73,8 +73,4 @@ But in OneDAL it took 100 milliseconds to 115 milliseconds to run it where this 
 </li>Predictive models often provide confidence intervals around their forecasts. These intervals express the precision of the prediction and the level of confidence in the outcome.</li>
 <br/>
 
-**LONG SHORT TERM MEMORY NETWORK:**
- LTSMs are a type of Recurrent Neural Network for learning long-term dependencies.
-It is commonly used for processing and predicting time-series data.
-
 
