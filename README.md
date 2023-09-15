@@ -34,17 +34,6 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
 
 
 
-
-<h2>METHODOLOGY</h2>
-<li>The model was trained using Google's stock market data(Date, Open, High, Low, Close, Volume) to enhance its technical proficiency.
-</li>
-<li>  The keras model helps to create a model, layer by layer. The dense layer is fully connected layer, so all the neurons in a layer are connected to those in a next layer by using tensorflow as a backend.</li>
-<br/>
-
-**LONG SHORT TERM MEMORY NETWORK:**
- LTSMs are a type of Recurrent Neural Network for learning long-term dependencies.
-It is commonly used for processing and predicting time-series data.
-
 <h2>PLATFORMS</h2>
 
 
@@ -74,4 +63,16 @@ But in OPENVINO it took 135 milliseconds to 141 milliseconds to run it where thi
       </div>
 
 ![image](https://github.com/711121104027/bitcoin_predection/blob/main/bitcoin%20predection.png)
+
+
+<h2>METHODOLOGY</h2>
+<li>The model was trained using Google's stock market data(Date, Open, High, Low, Close, Volume) to enhance its technical proficiency.
+</li>
+<li>  The keras model helps to create a model, layer by layer. The dense layer is fully connected layer, so all the neurons in a layer are connected to those in a next layer by using tensorflow as a backend.</li>
+<br/>
+
+**LONG SHORT TERM MEMORY NETWORK:**
+ LTSMs are a type of Recurrent Neural Network for learning long-term dependencies.
+It is commonly used for processing and predicting time-series data.
+
 
