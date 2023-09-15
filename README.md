@@ -7,9 +7,7 @@
 <p align="center">
   <img src="https://github.com/711121104027/bitcoin_predection/blob/main/bitcoin.jpg" width="400" height="240" >
 </p>
-Bitcoin predection has been a critical area of research and is one of the top applications of machine.
-So, I focused on building a Time-Efficient and approximate stock predictions, for google stocks with the RNN using LSTM Keras model.
-<h2>ABOUT</h2>
+Bitcoin price prediction is a challenging and highly speculative task, as the cryptocurrency market is known for its extreme volatility and complex factors that influence price movements. Predicting the future price of Bitcoin involves a combination of fundamental analysis, technical analysis, and market sentiment analysis.<h2>ABOUT</h2>
 
 **What is the Bitcoin predection?**
 
