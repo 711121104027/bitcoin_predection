@@ -66,11 +66,11 @@ But in OneDAL it took 100 milliseconds to 115 milliseconds to run it where this 
 
 
 <h2>METHODOLOGY</h2>
-1. Accurate predictions depend on the quality of data used for analysis. Inaccurate or incomplete data can lead to erroneous predictions. Therefore, ensuring data accuracy and precision is critical in cryptocurrency analysis.
-2.When building predictive models for Bitcoin price, it's essential to evaluate their performance metrics, such as Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE). These metrics measure the accuracy and precision of a model's predictions.
-3.Historical price data serves as the foundation for predictive models. Ensuring that historical price records are accurate and precise is vital for reliable analysis and forecasting.
-4.Assessing market sentiment through sentiment analysis tools and natural language processing can add depth to predictions. The accuracy of sentiment analysis algorithms impacts the precision of sentiment-based predictions.
-5.Predictive models often provide confidence intervals around their forecasts. These intervals express the precision of the prediction and the level of confidence in the outcome.
+</li>Accurate predictions depend on the quality of data used for analysis. Inaccurate or incomplete data can lead to erroneous predictions. Therefore, ensuring data accuracy and precision is critical in cryptocurrency analysis.</li>
+</li>When building predictive models for Bitcoin price, it's essential to evaluate their performance metrics, such as Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE). These metrics measure the accuracy and precision of a model's predictions.</li>
+</li>Historical price data serves as the foundation for predictive models. Ensuring that historical price records are accurate and precise is vital for reliable analysis and forecasting.</li>
+</li>Assessing market sentiment through sentiment analysis tools and natural language processing can add depth to predictions. The accuracy of sentiment analysis algorithms impacts the precision of sentiment-based predictions.</li>
+</li>Predictive models often provide confidence intervals around their forecasts. These intervals express the precision of the prediction and the level of confidence in the outcome.</li>
 <br/>
 
 **LONG SHORT TERM MEMORY NETWORK:**
